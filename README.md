@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Esp32 now and mobile app projects**
-
-- 🌱 I’m currently learning **Javascript,Kotlin,Flutter,Swift**
-
 - 👨‍💻 All of my projects are available at [https://github.com/safeapric0t](https://github.com/safeapric0t)
 
-- 💬 Ask me about **electronic devices**
+- 💬 Ask me about **electronic devices and iot systems**
 
 - 📫 How to reach me **bggj.burak@gmail.com**
 
 - 📄 Know about my experiences [FRC24,Teknofest and some robotıcs competition](FRC24,Teknofest and some robotıcs competition)
-
-- ⚡ Fun fact **I play CS2 AND WAR THUNDER 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
