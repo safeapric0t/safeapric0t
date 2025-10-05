@@ -17,7 +17,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: safeapric0t
-          output_dir: dist  # <--- burada output yerine dist yazıyoruz
+          output_dir: dist  # <-- senin sorduğun yer burası
 
       - name: Commit and push generated graph
         run: |
