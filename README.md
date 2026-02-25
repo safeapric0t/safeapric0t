@@ -15,7 +15,7 @@ Robotik sistemler, gömülü yazılım ve otonom araç algoritmaları üzerine o
 
 
 ## 📬 İletişim
-- **LinkedIn:**  <a href="https://www.linkedin.com/in/yahya-burak-ulu-3b3833331/">LinkedIn profilim</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yahya-burak-ulu-3b3833331/" target="_blank">LinkedIn Profili</a>
 - **E-posta:** bggj.burak@gmail.com
 
 ###
