@@ -31,11 +31,8 @@ Robotik sistemler, gömülü yazılım ve otonom araç algoritmaları üzerine o
 
 ###
 
-<h6 align="center">bggj.burak@gmail.com</h6>
 
 ###
-
-<h6 align="center">Profile Views</h6>
 
 
 ###
