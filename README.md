@@ -1,5 +1,3 @@
-# [Yahya Burak]
-
 Robotik sistemler, gömülü yazılım ve otonom araç algoritmaları üzerine odaklanmış bir geliştiriciyim. Özellikle ESP32 ekosistemi, gerçek zamanlı kontrol sistemleri ve sensör füzyonu konularında çalışmalar yürütüyorum.Aynı zamanda Mobil uygulamalar,Iot sistemler,fullstack web projeleri üzerinde çalışmalar yürütüyorum.
 
 ## 🎯 Odak Noktaları
@@ -11,15 +9,13 @@ Robotik sistemler, gömülü yazılım ve otonom araç algoritmaları üzerine o
 
 
 ## 🛠️ Yetkinlikler ve Teknolojiler
-- **Diller:** C++, C, Java Kotlin,TypeScript,Javascript,Python,SQL dilleri
+- **Diller:** C++, C, Java Kotlin,TypeScript,Javascript,Python, C#,.net MVC,SQL dilleri
 - **Donanım:** ESP32,Stm32,FPGA sistemleri,
 - **Araçlar:** PlatformIO, Arduino IDE, Git & GitHub ,Azure DevOps
 
 
 ## 📬 İletişim
-- **LinkedIn:** <a href="https://www.linkedin.com/in/yahya-burak-ulu-3b3833331/" target="_blank">
-    <h6 align="center">LinkedIn Profilim</h6>
-  </a>
+- **LinkedIn:** <h3 align="center">LinkedIn Profilim</h3> https://www.linkedin.com/in/yahya-burak-ulu-3b3833331/
 - **E-posta:** bggj.burak@gmail.com
 
 ###
