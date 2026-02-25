@@ -1,4 +1,26 @@
-<h1 align="center">Yup 😉</h1>
+# [Yahya Burak]
+
+Robotik sistemler, gömülü yazılım ve otonom araç algoritmaları üzerine odaklanmış bir geliştiriciyim. Özellikle ESP32 ekosistemi, gerçek zamanlı kontrol sistemleri ve sensör füzyonu konularında çalışmalar yürütüyorum.Aynı zamanda Mobil uygulamalar,Iot sistemler,fullstack web projeleri üzerinde çalışmalar yürütüyorum.
+
+## 🎯 Odak Noktaları
+- **Robotik Kontrol:** Robotik sistemler üzerinde farklı alanlarda çalışmalar yapıyorum.
+- **Otonom Navigasyon:** Sensör füzyonu ve Vision Processing altyapıları kullanarak oto kontrollü sistemler geliştiriyorum.
+- **Gömülü Sistemler:** ESP32,STM32,FPGA sistemleri I2C/SPI - Kablosuz haberleşme protokolleri üzerinde çalıştım.
+- **Yarışma Projeleri:** FRC(First Robotics Competition),Teknofest Roket ve İha kategorisi, "İstanbul ve Su" temalı Mem robotik yarışması gibi teknoloji odaklı projeler için yazılım mimarisi geliştirme.
+
+
+
+## 🛠️ Yetkinlikler ve Teknolojiler
+- **Diller:** C++, C, Java Kotlin,TypeScript,Javascript,Python,SQL dilleri
+- **Donanım:** ESP32,Stm32,FPGA sistemleri,
+- **Araçlar:** PlatformIO, Arduino IDE, Git & GitHub ,Azure DevOps
+
+
+## 📬 İletişim
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yahya-burak-ulu-3b3833331/" target="_blank">
+    <h6 align="center">LinkedIn Profilim</h6>
+  </a>
+- **E-posta:** bggj.burak@gmail.com
 
 ###
 
@@ -19,17 +41,6 @@
 
 <h6 align="center">Profile Views</h6>
 
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:safeapric0t?theme=minecraft&padding=4&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQESVAQiI2Sj_A/profile-displayphoto-shrink_400_400/B4EZeWvN9rHgAk-/0/1750580650789?e=1762387200&v=beta&t=1oK4HxFmbZCdiPAkvNpSMYRx-R2t520ajCzdeHVMSYw"  />
-</div>
 
 ###
 
@@ -181,20 +192,3 @@
   <img src="https://streak-stats.demolab.com?user=safeapric0t&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=safeapric0t&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safeapric0t/safeapric0t/main/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safeapric0t/safeapric0t/main/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/safeapric0t/safeapric0t/main/dist/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
